@@ -1,0 +1,16 @@
+{
+  "name": "resumable-conversation-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "test": "vitest run",
+    "benchmark": "tsx src/benchmark.ts"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}

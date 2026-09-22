@@ -1,0 +1,8 @@
+solution/backend/node_modules/
+solution/backend/conversation.db
+solution/backend/conversation.db-shm
+solution/backend/conversation.db-wal
+*.db
+*.db-shm
+*.db-wal
+resumable-realtime-conversation-submission.zip
